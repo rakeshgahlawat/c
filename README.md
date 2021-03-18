@@ -1,4 +1,4 @@
-# c language.
+# C Language.
 
 Clang is a compiler to compile source code into machine code.\
 clang hello.c //C languages\
